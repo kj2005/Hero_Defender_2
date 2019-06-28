@@ -1,0 +1,13 @@
+Begin Object Class=/Script/Engine.Texture2D Name="T_crumpled_grass_height"
+   Begin Object Class=/Script/Engine.AssetImportData Name="AssetImportData"
+   End Object
+   Begin Object Name="AssetImportData"
+   End Object
+   ImportedSize=(X=2048,Y=2048)
+   Source=(Id=59A5D9854D95625EFF16378A5DE2F636,SizeX=2048,SizeY=2048,NumSlices=1,NumMips=1,bPNGCompressed=True,Format=TSF_G8)
+   LightingGuid=AD69DDEE4D5941A7CBA18C97003613A5
+   AssetImportData=AssetImportData'"AssetImportData"'
+   AlphaCoverageThresholds=(X=0.000000,Y=0.000000,Z=0.000000,W=1.000000)
+   CompressionSettings=TC_Grayscale
+   SRGB=False
+End Object

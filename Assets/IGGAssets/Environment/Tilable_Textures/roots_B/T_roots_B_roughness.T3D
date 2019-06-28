@@ -1,0 +1,13 @@
+Begin Object Class=/Script/Engine.Texture2D Name="T_roots_B_roughness"
+   Begin Object Class=/Script/Engine.AssetImportData Name="AssetImportData"
+   End Object
+   Begin Object Name="AssetImportData"
+   End Object
+   ImportedSize=(X=2048,Y=2048)
+   Source=(Id=0827EF3F4FFB4790FF12448745D7B780,SizeX=2048,SizeY=2048,NumSlices=1,NumMips=1,bPNGCompressed=True,Format=TSF_G8)
+   LightingGuid=E474781F46003E2B0AE5F89CE7B5E048
+   AssetImportData=AssetImportData'"AssetImportData"'
+   AlphaCoverageThresholds=(X=0.000000,Y=0.000000,Z=0.000000,W=1.000000)
+   CompressionSettings=TC_Grayscale
+   SRGB=False
+End Object
